@@ -6,8 +6,8 @@ Archive for code used in the forum simulator Hypixel Forums Forum Game, which ca
   boost.py
 The functions of which is detailed below:
 - forumsim3.py
-   The main code for the game for posting and postfarm rng.
+   > The main code for the game for posting and postfarm rng.
 - boost.py
-   Determining section of the week.
+   > Determining section of the week.
 
 Since forum simulator has/will be shutting down soon, these code will not be actively maintained, and you're free to do whatever you feel like with it, including using it for a new forum simulator on the hypixel forums.
