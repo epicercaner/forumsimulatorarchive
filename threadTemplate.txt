@@ -1,0 +1,233 @@
+[SIZE=5][COLOR=#0000b3]Welcome to forum simulator, a game all about the forums you and I are on currently![/COLOR][/SIZE] please read the commands before playing so you could understand this game!
+
+
+[FONT=trebuchet ms]List of commands:
+[SPOILER="essential commands "]
+[FONT=Trebuchet MS]/in - create your profile for your game statistics (required to perform any other command)
+/post-<section> <post name> {<thread content>} - create a new post, you can get 1-10 posts, likes and possibly dislike. You should also refer to the different sections of the forums, please refer to the post names spoiler. (can be performed once a day) // !Thread content can only be added for the sections that are not profile post!
+/repost-<section> <post name> - repost an already existing post, you can get 2~8 posts, likes and dislike. Section is not necessary for reposts. (posts that are less than 3 days old cannot be reposted, can be performed once a day)
+/post-pf <content> - create a profile post, the latest of which would be shown at the top of your profile ingame, you will gain 1 post, 0-10 likes, 0-3 dislikes. (1 day cooldown)
+/reply-<section> <original thread title> <your reply> - reply to a post already made on a section. Read more about it's benefits in the 'Extra Contents' section of this post. (1 day cooldown)
+/postfarm - farms 30-110 posts, can postfarm every day.[/FONT]
+/daily - Grants you 75 points per day during a season
+[/SPOILER]
+[SPOILER="advanced commands"]
+[FONT=Trebuchet MS]/like <post name> - increase the like count by 20% in the post/profile post, may perform this command every 12 hours. (cannot like your own post)
+/dislike <post name> - Increase the dislike count by 15% in the post/profile post, may perform this command every 12 hours. (cannot dislike your own post)
+/follow <username> - following others can gain them a boost to show your appreciation! You can also get gifts from following.
+(Followers give 10% more likes and -10% dislike/person (dislike maxed to -90%)
+/compare - compare yourself to your actual forum statistics or other players in the game!
+/rank buy/upgrade <rank name> - buy a rank to have extra benefits! Please refer to the rank store for the benefits.
+/gift give <username> - give a gift to the person and you'll get 1 gift in return! (1 week cooldown)
+/move <post> <section> - move a post to a different section! This does not affect stats.
+/default <section> - select a default section. (1 week cooldown)[/FONT]
+[/SPOILER][/FONT]
+[SPOILER="Guilds command"]
+[FONT=trebuchet ms]/guild create <name> -> Create a guild with the corresponding name
+/guild setting -> check the setting part for more info.
+/guild promote <username> -> For Owner only, promotes a player to Co-Owner
+/guild demote <username> -> For Owner only, demotes a Co-Owner
+/guild invite <username> -> For invite-only guilds only, sends an invite to a player
+/guild accept -> after receiving an invite, use this command to accept the command
+/guild join <guild name> -> For open guilds only, joins a guild immediately
+/guild leave -> leave your current guild.
+/guild kick <username> -> kick a player from the guild, does not mean banning, player can rejoin the guild at any time
+/guild ban <username> -> ban a player from ever joining the guild again, as well as kicking them out of the guild at the same time
+/guild unban <username> -> unban a player from the guild’s ban list.
+/guild contribute <upgrade ID> <posts/likes> -> contribute to a guild upgrade with either posts or likes, more details in the contributions tab
+/guild prioritize <upgrade ID> -> sets an upgrade to prioritize to show it to your guildmates, all unused contributions will be added to the prioritized upgrade.
+/guild allocate <upgrade ID> -> allocate any unused points into an upgrade
+/guild color <color> - sets a color for the guild name
+
+Settings Page:
+Below are the setting for guilds, only guildmasters are able to change these info
+/guild setting join <open/invite> -> set the guild to be open or invite only. The default is invite only.
+/guild setting bio <short text> -> add a short text for your guild, think of it as a promotion
+/guild setting changename <name> -> change the guild’s name
+/guild setting transfer <username> -> transfer the guild’s ownership to someone else[/FONT]
+[/SPOILER]
+
+[FONT=trebuchet ms]Rules of this game:
+[FONT=Trebuchet MS]1. Follow all the rules that apply on the hypixel forums, forums rule can be found [/FONT][/FONT][URL='https://hypixel.net/forum-rules'][FONT=Trebuchet MS][FONT=Trebuchet MS]here.[/FONT][/FONT][/URL]
+[FONT=Trebuchet MS][FONT=Trebuchet MS]2. Do not spam commands.
+3. Please put all your commands in one time in a single post, spreading out to several posts will make it harder to work with.
+4. Only perform commands when the cooldown is off.
+5. Be friendly to each other and have fun playing the game!
+6. When liking/disliking, please be more specific as there might be multiple posts with similar name (especially reposts)
+7. Your post name can only be 1 line long, any longer than that doesn't fit in with the other posts.
+8. When posting, please don't tag anyone.
+9. No content that will trigger auto formatting in google sheets (for archive purposes), such as time, dates and currency.
+10. When posting, please make sure you're in the correct section, other than the off topic section, which allows for any discussions except for those listed in the other categories.
+11. All commands should be performed properly, your commands may not be processed otherwise.
+12. Be original! Don't straight up copy what other is doing, that's just not how this game works[/FONT]
+
+
+Extra Contents[/FONT]
+[SPOILER="Useful Links"]
+## fill with your own links.
+[/SPOILER]
+
+[SPOILER="New Players"]
+New Players are defined as below, they must satisfy all these conditions:
+1. have no ranks
+2. have a score of below 1500
+3. have less than 5 followers.
+
+New players enjoy +50 likes and -50% likes, as well as +20% contribution if they are in a guild.
+[/SPOILER]
+
+[SPOILER="Reply System"]
+reply t0 threads in any section! Use the /reply-<section> <original post> <reply content> to do so!
+
+For posting a reply, you will receive 1 post, likes and dislikes' range is determined by how much likes and dislike the original post received. Below table shows how it works
+[TABLE width="100%"]
+[TR]
+[td]Number of Reply[/td][td]Post Count[/td][td]Like Count[/td][td]Dislike Count[/td]
+[/TR]
+[TR]
+[td]Original[/td][td]8[/td][td]100[/td][td]10[/td]
+[/TR]
+[TR]
+[td]1st Reply[/td][td]1[/td][td]0-50[/td][td]0-10[/td]
+[/TR]
+[TR]
+[td]5th Reply[/td][td]1[/td][td]0-17[/td][td]0-10[/td]
+[/TR]
+[/TABLE]
+[/SPOILER]
+
+[SPOILER="conversion store"]
+You can convert you posts to likes and likes to posts!
+
+Current Tax Rate: 3%
+Current minimum amount needed: 60 posts/20 likes
+
+3 posts -> 1 like
+1 like -> 3 posts
+
+use /convert <amount> <posts/likes[1]>
+
+Note:
+[1] The type you want to convert,
+for example: if you wrote '/convert 60 posts' means you would convert 60 posts to 20 likes.
+[/SPOILER]
+
+[SPOILER="rank store"]
+if there are any discounts, they will be displayed here, and the sale price will be reflected on the spreadsheet.
+
+[FONT=trebuchet ms]Ranks give you an advantage by giving you more likes and less dislikes, and even more points from /daily!
+
+Use /rank buy <name> to buy a rank[/FONT]
+
+rank format:
+Rank name - Cost of rank (Effects of rank)
+
+[FONT=trebuchet ms]beginner - 75 posts + 25 likes (+10% likes, -10% dislikes, +5 from daily)
+Advanced - 150 posts + 50 likes (+20% likes, -20% dislikes, +10 from daily)
+Creator - 250 posts + 100 likes (+35% likes, -35% dislikes, +20 from daily)
+Active - 325 posts + 150 likes (+50% likes, -40% dislikes, +25 from daily) 
+Well-known - 500 posts + 250 likes (+90% likes, -55% dislikes, +25 from daily)
+Expert - 750 posts + 375 likes (+130% likes, -75% dislikes, +35 points from daily)
+Legend! - 1000 posts + 525 likes (+180% likes, -90% dislikes, +50 points from daily)
+Command: /rank buy/upgrade <rank name>
+If you already have a rank, the cost will be <new rank>-<old rank>[/FONT]
+[/SPOILER]
+
+[SPOILER="Prestige Shop"]
+[FONT=trebuchet ms]Welcome to the prestige shop. You can get really powerful items for a season, 250% likes increase, but obviously it comes with a cost, which is shown below. You also need to have the Legend! rank to purchase a prestige. You will also get 1000 points per prestige.
+
+Prestige - 1000 posts + 1500 positives
+
+Use /prestige to buy a prestige level.[/FONT]
+[/SPOILER]
+
+[FONT=Trebuchet MS][SPOILER="Scoring system"]
+We have score to determine the best players of a season, here's how it is calculated
+1 post -> 1 point
+1 like -> 3 points
+1 dislikes -> -2 points
+1 daily -> 50 points (affected by rank)
+1 contribution token -> 50 points 
+1 prestige -> 1000 points
+[/SPOILER]
+
+[SPOILER="Cap for /postfarm and /daily"]
+To avoid people from getting many points without posting anything, there is a limit to points given for people with less posts.
+0 posts -> max 1250 points
+1 post -> max 2000 points.
+2 posts -> max 2500 points.
+3 posts -> max 5000 points
+10 posts -> max 10000 points.
+10+ posts -> no limit
+[/SPOILER][/FONT]
+
+
+Game is welcome for all players to join at all times, if I didn't see your joining message after 1 day, please contact me by tagging me!
+
+## top players
+Season 28 top players
+1. Snom_
+2. TooMuchNeck
+3. Soapbox
+
+## seasonal statistics
+Season 1000 Statistics
+Number of players: 1
+Number of threads: 2
+Number of posts: 3
+Number of likes: 4
+Number of dislikes: 5
+Number of dailies: 6
+Number of contribution tokens: 7
+
+## sections
+All post name:
+[SPOILER="Posts Names (The Final Season)"]
+Please click on sections to continue
+Format: [Total Post Number] Player name - post name (P for post count, L for likes, D for dislikes)
+[SPOILER="Profile Posts (/post-pf) - All your wildest profile wall stuff"]
+/
+[/SPOILER]
+[SPOILER="Suggestion Box (/post-sb) - Submit all your 'best' suggestions! Good ones might even make it into the game!"]
+/
+[/SPOILER]
+[SPOILER="Hypixel Minigames Discussion (/post-hy) - Talk about any hypixel minigames here!"]
+/
+[/SPOILER]
+[SPOILER="Guides/Help (/post-gh) - any guides and help for others?"]
+/
+[/SPOILER]
+[SPOILER="Forum Games (/post-fg) - for your counting games and whatever forum games!"]
+/
+[/SPOILER]
+⋆ This section will receive 25% more likes from 06/01 to 13/01
+[/SPOILER]
+
+
+## you may modify this to whatever you like, but these are the default.
+[SPOILER="Totally not blackmarket"]
+50 posts or 10 like -> prevent your post from being attacked by other blackmarket attacks (/bm buy <postname> bmp <(use) post/like>
+110 posts or 35 likes -> *2 a post's dislike count (/bm buy 2xdislikes <postname> <posts/likes>)
+300 posts or 100 likes -> 1 follower (/bm buy folw <amount> <posts/likes>) (15 left, 5 max per player)
+75 posts or 25 likes ->
+increase like/dislike cap by 100 (/bm buy cap <post name> <amount> <posts/likes>
+or
+decrease like/dislike cap by 50 (/bm buy lcap <post name> <amount> <posts/likes>
+135 posts or 40 likes -> multiply replies like cap amount by 2 (/bm buy relike <posts/likes>
+(must use on the same post as replying)
+10 posts or 3 likes -> bypass the taxation on conversion store once (/bm buy taxevasion </posts/likes>)
+1727 posts or 727 likes -> force epicercaner to do a content update within 7 days (/bm buy forceupdate <posts/likes)
+[/SPOILER]
+
+Guilds:
+[SPOILER="Guild - name"]
+## each guild is separated to their own spoiler.
+[/SPOILER]
+Individual Statistics:
+## individual stats can be store here as a table or just link it to a spreadsheet
+
+Game updates and archives
+## your way of storing game updates
+
+Seasonal awards:
+## insert seasonal award links here
